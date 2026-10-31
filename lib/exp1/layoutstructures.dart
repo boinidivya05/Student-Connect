@@ -53,3 +53,5 @@ class LayoutStructures extends StatelessWidget {
     );
   }
 }
+
+void main() => runApp(const LayoutStructures());
